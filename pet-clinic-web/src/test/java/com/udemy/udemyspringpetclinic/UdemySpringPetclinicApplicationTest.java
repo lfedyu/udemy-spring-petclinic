@@ -1,13 +1,14 @@
 package com.udemy.udemyspringpetclinic;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UdemySpringPetclinicApplicationTests {
+public class UdemySpringPetclinicApplicationTest {
 
   @Test
   void contextLoads() {
   }
+
 
 }
