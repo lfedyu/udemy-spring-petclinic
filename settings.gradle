@@ -1,6 +1,4 @@
 rootProject.name = 'udemy-spring-petclinic'
 include 'pet-clinic-data'
 include 'pet-clinic-web'
-include 'pet-clinic-data'
-include 'pet-clinic-web'
 
